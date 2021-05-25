@@ -1,0 +1,278 @@
+,feature,model,dropdown
+0,BEST,indices,Indices
+1,EA,indices,Indices
+2,EPNP,indices,Indices
+3,NAO,indices,Indices
+4,NINA,indices,Indices
+5,ONI,indices,Indices
+6,PNA,indices,Indices
+7,WP,indices,Indices
+8,BEST,tele_diff,First and Seasonal Difference
+9,EA_first_difference,tele_diff,First and Seasonal Difference
+10,EA_seasonal_difference,tele_diff,First and Seasonal Difference
+11,EA_seasonal_first_difference,tele_diff,First and Seasonal Difference
+12,EPNP_first_difference,tele_diff,First and Seasonal Difference
+13,EPNP_seasonal_difference,tele_diff,First and Seasonal Difference
+14,EPNP_seasonal_first_difference,tele_diff,First and Seasonal Difference
+15,NAO_first_difference,tele_diff,First and Seasonal Difference
+16,NAO_seasonal_difference,tele_diff,First and Seasonal Difference
+17,NAO_seasonal_first_difference,tele_diff,First and Seasonal Difference
+18,NINA,tele_diff,First and Seasonal Difference
+19,ONI,tele_diff,First and Seasonal Difference
+20,PNA_first_difference,tele_diff,First and Seasonal Difference
+21,PNA_seasonal_difference,tele_diff,First and Seasonal Difference
+22,PNA_seasonal_first_difference,tele_diff,First and Seasonal Difference
+23,WP_first_difference,tele_diff,First and Seasonal Difference
+24,WP_seasonal_difference,tele_diff,First and Seasonal Difference
+25,WP_seasonal_first_difference,tele_diff,First and Seasonal Difference
+26,BEST,lagged_tele,Lagged Teleconnections
+27,EA,lagged_tele,Lagged Teleconnections
+28,EA_t-1,lagged_tele,Lagged Teleconnections
+29,EA_t-10,lagged_tele,Lagged Teleconnections
+30,EA_t-11,lagged_tele,Lagged Teleconnections
+31,EA_t-12,lagged_tele,Lagged Teleconnections
+32,EA_t-2,lagged_tele,Lagged Teleconnections
+33,EA_t-3,lagged_tele,Lagged Teleconnections
+34,EA_t-4,lagged_tele,Lagged Teleconnections
+35,EA_t-5,lagged_tele,Lagged Teleconnections
+36,EA_t-6,lagged_tele,Lagged Teleconnections
+37,EA_t-7,lagged_tele,Lagged Teleconnections
+38,EA_t-8,lagged_tele,Lagged Teleconnections
+39,EA_t-9,lagged_tele,Lagged Teleconnections
+40,EPNP,lagged_tele,Lagged Teleconnections
+41,EPNP_t-10_x,lagged_tele,Lagged Teleconnections
+42,EPNP_t-10_y,lagged_tele,Lagged Teleconnections
+43,EPNP_t-11_x,lagged_tele,Lagged Teleconnections
+44,EPNP_t-11_y,lagged_tele,Lagged Teleconnections
+45,EPNP_t-12_x,lagged_tele,Lagged Teleconnections
+46,EPNP_t-12_y,lagged_tele,Lagged Teleconnections
+47,EPNP_t-1_x,lagged_tele,Lagged Teleconnections
+48,EPNP_t-1_y,lagged_tele,Lagged Teleconnections
+49,EPNP_t-2_x,lagged_tele,Lagged Teleconnections
+50,EPNP_t-2_y,lagged_tele,Lagged Teleconnections
+51,EPNP_t-3_x,lagged_tele,Lagged Teleconnections
+52,EPNP_t-3_y,lagged_tele,Lagged Teleconnections
+53,EPNP_t-4_x,lagged_tele,Lagged Teleconnections
+54,EPNP_t-4_y,lagged_tele,Lagged Teleconnections
+55,EPNP_t-5_x,lagged_tele,Lagged Teleconnections
+56,EPNP_t-5_y,lagged_tele,Lagged Teleconnections
+57,EPNP_t-6_x,lagged_tele,Lagged Teleconnections
+58,EPNP_t-6_y,lagged_tele,Lagged Teleconnections
+59,EPNP_t-7_x,lagged_tele,Lagged Teleconnections
+60,EPNP_t-7_y,lagged_tele,Lagged Teleconnections
+61,EPNP_t-8_x,lagged_tele,Lagged Teleconnections
+62,EPNP_t-8_y,lagged_tele,Lagged Teleconnections
+63,EPNP_t-9_x,lagged_tele,Lagged Teleconnections
+64,EPNP_t-9_y,lagged_tele,Lagged Teleconnections
+65,NAO,lagged_tele,Lagged Teleconnections
+66,NINA,lagged_tele,Lagged Teleconnections
+67,ONI,lagged_tele,Lagged Teleconnections
+68,PNA,lagged_tele,Lagged Teleconnections
+69,PNA_t-1,lagged_tele,Lagged Teleconnections
+70,PNA_t-10,lagged_tele,Lagged Teleconnections
+71,PNA_t-11,lagged_tele,Lagged Teleconnections
+72,PNA_t-12,lagged_tele,Lagged Teleconnections
+73,PNA_t-2,lagged_tele,Lagged Teleconnections
+74,PNA_t-3,lagged_tele,Lagged Teleconnections
+75,PNA_t-4,lagged_tele,Lagged Teleconnections
+76,PNA_t-5,lagged_tele,Lagged Teleconnections
+77,PNA_t-6,lagged_tele,Lagged Teleconnections
+78,PNA_t-7,lagged_tele,Lagged Teleconnections
+79,PNA_t-8,lagged_tele,Lagged Teleconnections
+80,PNA_t-9,lagged_tele,Lagged Teleconnections
+81,WP,lagged_tele,Lagged Teleconnections
+82,WP_t-1,lagged_tele,Lagged Teleconnections
+83,WP_t-10,lagged_tele,Lagged Teleconnections
+84,WP_t-11,lagged_tele,Lagged Teleconnections
+85,WP_t-12,lagged_tele,Lagged Teleconnections
+86,WP_t-2,lagged_tele,Lagged Teleconnections
+87,WP_t-3,lagged_tele,Lagged Teleconnections
+88,WP_t-4,lagged_tele,Lagged Teleconnections
+89,WP_t-5,lagged_tele,Lagged Teleconnections
+90,WP_t-6,lagged_tele,Lagged Teleconnections
+91,WP_t-7,lagged_tele,Lagged Teleconnections
+92,WP_t-8,lagged_tele,Lagged Teleconnections
+93,WP_t-9,lagged_tele,Lagged Teleconnections
+94,BEST,elnino_cat,El Nino Categories
+95,BEST_Category,elnino_cat,El Nino Categories
+96,EA,elnino_cat,El Nino Categories
+97,EPNP,elnino_cat,El Nino Categories
+98,NAO,elnino_cat,El Nino Categories
+99,NINA,elnino_cat,El Nino Categories
+100,NINA_Category,elnino_cat,El Nino Categories
+101,ONI,elnino_cat,El Nino Categories
+102,ONI_Category,elnino_cat,El Nino Categories
+103,PNA,elnino_cat,El Nino Categories
+104,WP,elnino_cat,El Nino Categories
+105,BEST,lagged_elnino,Lagged El Nino Categories
+106,BEST_Category,lagged_elnino,Lagged El Nino Categories
+107,BEST_Category_t-1,lagged_elnino,Lagged El Nino Categories
+108,BEST_Category_t-10,lagged_elnino,Lagged El Nino Categories
+109,BEST_Category_t-11,lagged_elnino,Lagged El Nino Categories
+110,BEST_Category_t-12,lagged_elnino,Lagged El Nino Categories
+111,BEST_Category_t-2,lagged_elnino,Lagged El Nino Categories
+112,BEST_Category_t-3,lagged_elnino,Lagged El Nino Categories
+113,BEST_Category_t-4,lagged_elnino,Lagged El Nino Categories
+114,BEST_Category_t-5,lagged_elnino,Lagged El Nino Categories
+115,BEST_Category_t-6,lagged_elnino,Lagged El Nino Categories
+116,BEST_Category_t-7,lagged_elnino,Lagged El Nino Categories
+117,BEST_Category_t-8,lagged_elnino,Lagged El Nino Categories
+118,BEST_Category_t-9,lagged_elnino,Lagged El Nino Categories
+119,EA,lagged_elnino,Lagged El Nino Categories
+120,EPNP,lagged_elnino,Lagged El Nino Categories
+121,NAO,lagged_elnino,Lagged El Nino Categories
+122,NINA,lagged_elnino,Lagged El Nino Categories
+123,NINA_Category,lagged_elnino,Lagged El Nino Categories
+124,NINA_Category_t-1,lagged_elnino,Lagged El Nino Categories
+125,NINA_Category_t-10,lagged_elnino,Lagged El Nino Categories
+126,NINA_Category_t-11,lagged_elnino,Lagged El Nino Categories
+127,NINA_Category_t-12,lagged_elnino,Lagged El Nino Categories
+128,NINA_Category_t-2,lagged_elnino,Lagged El Nino Categories
+129,NINA_Category_t-3,lagged_elnino,Lagged El Nino Categories
+130,NINA_Category_t-4,lagged_elnino,Lagged El Nino Categories
+131,NINA_Category_t-5,lagged_elnino,Lagged El Nino Categories
+132,NINA_Category_t-6,lagged_elnino,Lagged El Nino Categories
+133,NINA_Category_t-7,lagged_elnino,Lagged El Nino Categories
+134,NINA_Category_t-8,lagged_elnino,Lagged El Nino Categories
+135,NINA_Category_t-9,lagged_elnino,Lagged El Nino Categories
+136,ONI,lagged_elnino,Lagged El Nino Categories
+137,ONI_Category,lagged_elnino,Lagged El Nino Categories
+138,ONI_Category_t-1,lagged_elnino,Lagged El Nino Categories
+139,ONI_Category_t-10,lagged_elnino,Lagged El Nino Categories
+140,ONI_Category_t-11,lagged_elnino,Lagged El Nino Categories
+141,ONI_Category_t-12,lagged_elnino,Lagged El Nino Categories
+142,ONI_Category_t-2,lagged_elnino,Lagged El Nino Categories
+143,ONI_Category_t-3,lagged_elnino,Lagged El Nino Categories
+144,ONI_Category_t-4,lagged_elnino,Lagged El Nino Categories
+145,ONI_Category_t-5,lagged_elnino,Lagged El Nino Categories
+146,ONI_Category_t-6,lagged_elnino,Lagged El Nino Categories
+147,ONI_Category_t-7,lagged_elnino,Lagged El Nino Categories
+148,ONI_Category_t-8,lagged_elnino,Lagged El Nino Categories
+149,ONI_Category_t-9,lagged_elnino,Lagged El Nino Categories
+150,PNA,lagged_elnino,Lagged El Nino Categories
+151,WP,lagged_elnino,Lagged El Nino Categories
+152,BEST,overfitted,Overfitted (All of the Above)
+153,BEST_Category,overfitted,Overfitted (All of the Above)
+154,BEST_Category_t-1,overfitted,Overfitted (All of the Above)
+155,BEST_Category_t-10,overfitted,Overfitted (All of the Above)
+156,BEST_Category_t-11,overfitted,Overfitted (All of the Above)
+157,BEST_Category_t-12,overfitted,Overfitted (All of the Above)
+158,BEST_Category_t-2,overfitted,Overfitted (All of the Above)
+159,BEST_Category_t-3,overfitted,Overfitted (All of the Above)
+160,BEST_Category_t-4,overfitted,Overfitted (All of the Above)
+161,BEST_Category_t-5,overfitted,Overfitted (All of the Above)
+162,BEST_Category_t-6,overfitted,Overfitted (All of the Above)
+163,BEST_Category_t-7,overfitted,Overfitted (All of the Above)
+164,BEST_Category_t-8,overfitted,Overfitted (All of the Above)
+165,BEST_Category_t-9,overfitted,Overfitted (All of the Above)
+166,EA_first_difference,overfitted,Overfitted (All of the Above)
+167,EA_seasonal_difference,overfitted,Overfitted (All of the Above)
+168,EA_seasonal_first_difference,overfitted,Overfitted (All of the Above)
+169,EA_t-1,overfitted,Overfitted (All of the Above)
+170,EA_t-10,overfitted,Overfitted (All of the Above)
+171,EA_t-11,overfitted,Overfitted (All of the Above)
+172,EA_t-12,overfitted,Overfitted (All of the Above)
+173,EA_t-2,overfitted,Overfitted (All of the Above)
+174,EA_t-3,overfitted,Overfitted (All of the Above)
+175,EA_t-4,overfitted,Overfitted (All of the Above)
+176,EA_t-5,overfitted,Overfitted (All of the Above)
+177,EA_t-6,overfitted,Overfitted (All of the Above)
+178,EA_t-7,overfitted,Overfitted (All of the Above)
+179,EA_t-8,overfitted,Overfitted (All of the Above)
+180,EA_t-9,overfitted,Overfitted (All of the Above)
+181,EPNP_first_difference,overfitted,Overfitted (All of the Above)
+182,EPNP_seasonal_difference,overfitted,Overfitted (All of the Above)
+183,EPNP_seasonal_first_difference,overfitted,Overfitted (All of the Above)
+184,EPNP_t-1,overfitted,Overfitted (All of the Above)
+185,EPNP_t-10,overfitted,Overfitted (All of the Above)
+186,EPNP_t-11,overfitted,Overfitted (All of the Above)
+187,EPNP_t-12,overfitted,Overfitted (All of the Above)
+188,EPNP_t-2,overfitted,Overfitted (All of the Above)
+189,EPNP_t-3,overfitted,Overfitted (All of the Above)
+190,EPNP_t-4,overfitted,Overfitted (All of the Above)
+191,EPNP_t-5,overfitted,Overfitted (All of the Above)
+192,EPNP_t-6,overfitted,Overfitted (All of the Above)
+193,EPNP_t-7,overfitted,Overfitted (All of the Above)
+194,EPNP_t-8,overfitted,Overfitted (All of the Above)
+195,EPNP_t-9,overfitted,Overfitted (All of the Above)
+196,NAO_first_difference,overfitted,Overfitted (All of the Above)
+197,NAO_seasonal_difference,overfitted,Overfitted (All of the Above)
+198,NAO_seasonal_first_difference,overfitted,Overfitted (All of the Above)
+199,NAO_t-1,overfitted,Overfitted (All of the Above)
+200,NAO_t-10,overfitted,Overfitted (All of the Above)
+201,NAO_t-11,overfitted,Overfitted (All of the Above)
+202,NAO_t-12,overfitted,Overfitted (All of the Above)
+203,NAO_t-2,overfitted,Overfitted (All of the Above)
+204,NAO_t-3,overfitted,Overfitted (All of the Above)
+205,NAO_t-4,overfitted,Overfitted (All of the Above)
+206,NAO_t-5,overfitted,Overfitted (All of the Above)
+207,NAO_t-6,overfitted,Overfitted (All of the Above)
+208,NAO_t-7,overfitted,Overfitted (All of the Above)
+209,NAO_t-8,overfitted,Overfitted (All of the Above)
+210,NAO_t-9,overfitted,Overfitted (All of the Above)
+211,NINA,overfitted,Overfitted (All of the Above)
+212,NINA_Category,overfitted,Overfitted (All of the Above)
+213,NINA_Category_t-1,overfitted,Overfitted (All of the Above)
+214,NINA_Category_t-10,overfitted,Overfitted (All of the Above)
+215,NINA_Category_t-11,overfitted,Overfitted (All of the Above)
+216,NINA_Category_t-12,overfitted,Overfitted (All of the Above)
+217,NINA_Category_t-2,overfitted,Overfitted (All of the Above)
+218,NINA_Category_t-3,overfitted,Overfitted (All of the Above)
+219,NINA_Category_t-4,overfitted,Overfitted (All of the Above)
+220,NINA_Category_t-5,overfitted,Overfitted (All of the Above)
+221,NINA_Category_t-6,overfitted,Overfitted (All of the Above)
+222,NINA_Category_t-7,overfitted,Overfitted (All of the Above)
+223,NINA_Category_t-8,overfitted,Overfitted (All of the Above)
+224,NINA_Category_t-9,overfitted,Overfitted (All of the Above)
+225,ONI,overfitted,Overfitted (All of the Above)
+226,ONI_Category,overfitted,Overfitted (All of the Above)
+227,ONI_Category_t-1,overfitted,Overfitted (All of the Above)
+228,ONI_Category_t-10,overfitted,Overfitted (All of the Above)
+229,ONI_Category_t-11,overfitted,Overfitted (All of the Above)
+230,ONI_Category_t-12,overfitted,Overfitted (All of the Above)
+231,ONI_Category_t-2,overfitted,Overfitted (All of the Above)
+232,ONI_Category_t-3,overfitted,Overfitted (All of the Above)
+233,ONI_Category_t-4,overfitted,Overfitted (All of the Above)
+234,ONI_Category_t-5,overfitted,Overfitted (All of the Above)
+235,ONI_Category_t-6,overfitted,Overfitted (All of the Above)
+236,ONI_Category_t-7,overfitted,Overfitted (All of the Above)
+237,ONI_Category_t-8,overfitted,Overfitted (All of the Above)
+238,ONI_Category_t-9,overfitted,Overfitted (All of the Above)
+239,PNA_first_difference,overfitted,Overfitted (All of the Above)
+240,PNA_seasonal_difference,overfitted,Overfitted (All of the Above)
+241,PNA_seasonal_first_difference,overfitted,Overfitted (All of the Above)
+242,PNA_t-1,overfitted,Overfitted (All of the Above)
+243,PNA_t-10,overfitted,Overfitted (All of the Above)
+244,PNA_t-11,overfitted,Overfitted (All of the Above)
+245,PNA_t-12,overfitted,Overfitted (All of the Above)
+246,PNA_t-2,overfitted,Overfitted (All of the Above)
+247,PNA_t-3,overfitted,Overfitted (All of the Above)
+248,PNA_t-4,overfitted,Overfitted (All of the Above)
+249,PNA_t-5,overfitted,Overfitted (All of the Above)
+250,PNA_t-6,overfitted,Overfitted (All of the Above)
+251,PNA_t-7,overfitted,Overfitted (All of the Above)
+252,PNA_t-8,overfitted,Overfitted (All of the Above)
+253,PNA_t-9,overfitted,Overfitted (All of the Above)
+254,WP_first_difference,overfitted,Overfitted (All of the Above)
+255,WP_seasonal_difference,overfitted,Overfitted (All of the Above)
+256,WP_seasonal_first_difference,overfitted,Overfitted (All of the Above)
+257,WP_t-1,overfitted,Overfitted (All of the Above)
+258,WP_t-10,overfitted,Overfitted (All of the Above)
+259,WP_t-11,overfitted,Overfitted (All of the Above)
+260,WP_t-12,overfitted,Overfitted (All of the Above)
+261,WP_t-2,overfitted,Overfitted (All of the Above)
+262,WP_t-3,overfitted,Overfitted (All of the Above)
+263,WP_t-4,overfitted,Overfitted (All of the Above)
+264,WP_t-5,overfitted,Overfitted (All of the Above)
+265,WP_t-6,overfitted,Overfitted (All of the Above)
+266,WP_t-7,overfitted,Overfitted (All of the Above)
+267,WP_t-8,overfitted,Overfitted (All of the Above)
+268,WP_t-9,overfitted,Overfitted (All of the Above)
+269,BEST,ideal_lag,Lag Synchronized Indices
+270,EA,ideal_lag,Lag Synchronized Indices
+271,EPNP,ideal_lag,Lag Synchronized Indices
+272,NAO,ideal_lag,Lag Synchronized Indices
+273,NINA,ideal_lag,Lag Synchronized Indices
+274,ONI,ideal_lag,Lag Synchronized Indices
+275,PNA,ideal_lag,Lag Synchronized Indices
+276,WP,ideal_lag,Lag Synchronized Indices

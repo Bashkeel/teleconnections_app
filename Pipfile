@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pre-commit = "*"
+black = "*"
+pylint = "*"
+pipenv-to-requirements = "*"
+
+[packages]
+streamlit = "==0.82.0"
+pandas = "==1.0.5"
+matplotlib = "==3.2.2"
+pystan = "==2.19.1.1"
+fbprophet = "==0.7"
+plotly = "==4.8.2"
+statsmodels = "==0.12.2"
+
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true

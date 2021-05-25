@@ -1,0 +1,8 @@
+model,dropdown
+indices,Indices
+tele_diff,First and Seasonal Difference
+lagged_tele,Lagged Teleconnections
+elnino_cat,El Nino Categories
+lagged_elnino,Lagged El Nino Categories
+overfitted,Overfitted (All of the Above)
+ideal_lag,Lag Synchronized Indices
