@@ -105,9 +105,9 @@ def plot_TLCC(feature_subset, feature_selected):
     lagged_corr_result['abs'] = abs(lagged_corr_result['corr'])
 
     fig = px.line(lagged_corr_result, x="Lags", y="corr")
-    fig.add_vline(x=0)
-    fig.add_vline(x=lagged_corr_result.iloc[np.argmax(lagged_corr_result['abs']),:]['Lags'], line_dash="dash", line_color="red",
-                 annotation_text = "Peak Synchrony", annotation_font_color="red", annotation_font_size=20, annotation_position='bottom right')
+    # fig.add_vline(x=0)
+    # fig.add_vline(x=lagged_corr_result.iloc[np.argmax(lagged_corr_result['abs']),:]['Lags'], line_dash="dash", line_color="red",
+    #              annotation_text = "Peak Synchrony", annotation_font_color="red", annotation_font_size=20, annotation_position='bottom right')
     fig.update_layout(
         title_text=f'Time-Lagged Cross Correlation of Feature: {feature_selected}',
         xaxis_title_text='Lags',
